@@ -1,0 +1,161 @@
+/*Navigation Bar */
+.nav a:hover{
+  background-color: #3d3d3d !important;
+  color: #3cbae8 !important;
+}
+
+.nav {
+  font-size: 20px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.nav .open>a {
+    background-color: #3d3d3d !important;
+    color: #3cbae8 !important;
+  }
+
+.dropdown-menu>li>a {
+  background-color: #3d3d3d !important;
+  color: #3cbae8 !important;
+}
+
+.dropdown > a:hover{
+  background-color: #3d3d3d !important;
+  color: #3cbae8 !important;
+}
+
+ul.dropdown-menu {
+  background-color: #3d3d3d !important;
+  color: #3cbae8 !important;
+}
+
+ul.dropdown-menu > li > a:hover {
+  background-color: #080808 !important;
+}
+
+#home{
+  font-size: 25px;
+  font-style: italic;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  a:hover{
+    color: #3cbae8;
+  }
+}
+
+body {
+  background-color: black;
+}
+
+h1{
+  font-size: 48px;
+  color: white;
+  text-align: left;
+  font-style: italic;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h3{
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+p{
+  margin-bottom: 22px;
+  padding: 8px;
+}
+
+.first{
+  margin: auto;
+  width: 85%;
+}
+
+.links{
+  font-size: 24px;
+  color: #3cbae8;
+  text-align: center;
+}
+
+a{
+  color: #3cbae8;
+}
+
+a:hover{
+  color: #3cbae8;
+}
+
+#mainheader{
+  font-size: 48px;
+  color: white;
+  text-align: center;
+  font-style: italic;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin-top: 75px;
+}
+
+/* home.html button link styling */
+.calls {
+  font-size: 24px;
+  color: #3cbae8;
+  background-color: #3d3d3d;
+  border-color: #3d3d3d;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin-top: 25px;
+}
+
+footer{
+   position:fixed;
+   left:100px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+}
+
+.uniform {
+  position: relative;
+  display: block;
+  font-size: 14px;
+  line-height: 25px;
+  float: left;
+  margin: 0 306px 88px 0;
+  padding: 0;
+  width: 600px;
+  font-family: "Helvetica Neue",Helvetica,Arial,"Nimbus Sans L",sans-serif;
+  color: #ebebeb;
+  margin-top: 75px;
+  margin-left: 100px;
+}
+
+.paintings{
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.bottom-row{
+  position: relative;
+  margin-top: 10px;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.contact{
+  position: relative;
+  font-size: 16px;
+  color: white;
+  margin-left: 120px;
+  line-height: 30px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+form {
+  position: relative;
+  margin: 0 50 0 100;
+}
+
+/* RESPONSIVE IMAGES */
