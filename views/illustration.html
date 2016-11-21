@@ -1,3 +1,11 @@
 <div class="uniform">
 <h1 style="text-align: left;">Illustrations</h1>
+<p>
+  "Abstract, non-representational and collage work, in various combinations of watercolor, acrylic, ink, graphite and collage."
+</p>
+</div>
+<div class="container">
+    <div class="col-sm-4" ng-repeat="artwork in artworks | filter: {medium: 'illustration'}">
+      <a class="paintings" ng-href="{{artwork.thumb}}"  data-lightbox="{{artwork.thumb}}"><img class="paintings" ng-src="{{artwork.thumb}}" /></a>
+    </div>
 </div>

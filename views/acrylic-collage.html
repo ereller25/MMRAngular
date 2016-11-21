@@ -6,6 +6,6 @@
 </div>
 <div class="container">
     <div class="col-sm-4" ng-repeat="artwork in artworks | filter: {medium: 'acrylic and collage'}">
-      <img class="paintings" ng-src="{{artwork.thumb}}" ng-show="artwork.thumb"/>
+      <a class="paintings" ng-href="{{artwork.thumb}}"  data-lightbox="{{artwork.thumb}}"><img class="paintings" ng-src="{{artwork.thumb}}" /></a>
     </div>
 </div>

@@ -1,4 +1,10 @@
 <div class="uniform">
 <h1 style="text-align: left;">Watercolor</h1>
+<p>Watercolor paintings.</p>
+</div>
+<div class="container">
+    <div class="col-sm-4" ng-repeat="artwork in artworks | filter: {medium: 'watercolor'}">
+      <a class="paintings" ng-href="{{artwork.thumb}}"  data-lightbox="{{artwork.thumb}}"><img class="paintings" ng-src="{{artwork.thumb}}" /></a>
+    </div>
 
 </div>

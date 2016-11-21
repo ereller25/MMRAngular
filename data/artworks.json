@@ -34,6 +34,171 @@
   "description": "Watercolor and ink. Illustration for Tiffany the Pizza Cat by Barbara Warbinton, ©2013.",
   "thumb": "artwork/illustration/PizzaCat-800x614.jpg"
 }, {
+  "name": "Christmas Cat",
+  "medium": "illustration",
+  "description": "Watercolor and ink. Illustrations for Tiffany the Pizza Cat by Barbara Warbinton,©2013.",
+  "thumb": "artwork/illustration/ChristmasCat.jpg"
+}, {
+  "name": "Suds",
+  "medium": "illustration",
+  "description": "Watercolor and ink. Illustrations for Tiffany the Pizza Cat by Barbara Warbinton,©2013.",
+  "thumb": "artwork/illustration/SudsyCat-resize.jpg"
+}, {
+  "name": "Kindergarten Parade",
+  "medium": "illustration",
+  "description": "Watercolor and ink. Illustration for essay All I Really Need to Know I Learned in Kindergarten by Robert Fulghum.",
+  "thumb": "artwork/illustration/kindergarten-parade.jpg"
+}, {
+  "name": "Grand Tour",
+  "medium": "illustration",
+  "description": "Watercolor and ink on paper.",
+  "thumb": "artwork/illustration/unicyclists.jpg"
+}, {
+  "name": "The Wedding",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from Traveling to Bethlehem by Pam Blake-Virostko available at www.musicalgospelforkids.com",
+  "thumb": "artwork/illustration/Mary-Joseph-wed.jpg"
+}, {
+  "name": "Shepherds See the Star",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from Traveling to Bethlehem by Pam Blake-Virostko available at www.musicalgospelforkids.com",
+  "thumb": "artwork/illustration/Shepherds-Star.jpg"
+}, {
+  "name": "The Magi Visit Herod",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from Traveling to Bethlehem by Pam Blake-Virostko available at www.musicalgospelforkids.com",
+  "thumb": "artwork/illustration/wise-men-Herod.jpg"
+}, {
+  "name": "Across the Desert",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from Traveling to Bethlehem by Pam Blake-Virostko available at www.musicalgospelforkids.com",
+  "thumb": "artwork/illustration/wise-men-trek.jpg"
+}, {
+  "name": "A Good Book and a Cat",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from Have You Seen the Queen? by Karen Delight Hahn, available through karendelighth@comcast.net.",
+  "thumb": "artwork/illustration/woman-reading1.jpg"
+}, {
+  "name": "The Royal Beggers",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from Have You Seen the Queen? by Karen Delight Hahn, available through karendelighth@comcast.net.",
+  "thumb": "artwork/illustration/The-Royal-Beggars.jpg"
+}, {
+  "name": "Highwire Act",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from Have You Seen the Queen? by Karen Delight Hahn, available through karendelighth@comcast.net.",
+  "thumb": "artwork/illustration/circus-e1351548099531.jpg"
+}, {
+  "name": "Current Events Lesson",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from He’d Like to Buy a Vowel, Please by Marcia Mattingly Reller",
+  "thumb": "artwork/illustration/Current-Events.jpg"
+}, {
+  "name": "Avoiding Homework",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from He’d Like to Buy a Vowel, Please by Marcia Mattingly Reller",
+  "thumb": "artwork/illustration/Homework.jpg"
+}, {
+  "name": "Get Your Elbows Off the Table, Arthur!",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from He’d Like to Buy a Vowel, Please by Marcia Mattingly Reller",
+  "thumb": "artwork/illustration/Get-Your-Elbows-Off-the-Table-Arthur.jpg"
+}, {
+  "name": "Carrots?!",
+  "medium": "illustration",
+  "description": "Watercolor and ink, from Casey and the Cookie Jar.",
+  "thumb": "artwork/illustration/Casey-Cooky-Jar.jpg"
+}, {
+  "name": "Recess Review",
+  "medium": "illustration",
+  "description": "Watercolor, ink and collage on paper. Catalog illustration.",
+  "thumb": "artwork/illustration/The-Recess-Revue.jpg"
+}, {
+  "name": "Uffizi Ambiente",
+  "medium": "italian",
+  "description": "Uffizi Airs, a stylization of a portrait in the Uffizi with Italian landscape in the background.",
+  "thumb": "artwork/italian/uffizi-ambiente.jpg"
+}, {
+  "name": "Figlia di Firenze",
+  "medium": "italian",
+  "description": "Daughter of Florence, with duomo skirt, frieze images and architectural motif against the Arno River and Ponte Vecchio.",
+  "thumb": "artwork/italian/figlia-di-firenze.jpg"
+}, {
+  "name": "Siena Stile",
+  "medium": "italian",
+  "description": "Siena Style, with tile patterns borrowed from the beautiful duomo there.",
+  "thumb": "artwork/italian/siena-stile.jpg"
+}, {
+  "name": "Il Palio Perfetto",
+  "medium": "italian",
+  "description": "The Perfect Il Palio, using flags, or the contrada, of the teams in the race in Siena to fashion a patchwork-style gown.",
+  "thumb": "artwork/italian/il-palio-perfetto.jpg"
+}, {
+  "name": "Toscana Trapunto",
+  "medium": "italian",
+  "description": "Tuscan Quilt, using the quilt-like hillsides of Tuscany in the pattern of her skirt.",
+  "thumb": "artwork/italian/toscana-trapunto.jpg"
+}, {
+  "name": "Nigel's Lenten Rose",
+  "medium": "portraits",
+  "description": "Watercolor on paper. This chap was our tour guide at Oxford University and had such a wonderful face that I had to paint him. I don’t know that his name was Nigel, but I think it suits him.",
+  "thumb": "artwork/portraits/nigel-lenten-rose.jpg"
+}, {
+  "name": "Primary Prism",
+  "medium": "portraits",
+  "description": "Watercolor on paper. On a cold winter day, my son was playing in front of the window. The bright sunlight bounced off the snowdrifts and created a prism through the glass that cast colors across his face. It was vivid and startling.",
+  "thumb": "artwork/portraits/primary-prism.jpg"
+}, {
+  "name": "Memories of Springtime",
+  "medium": "portraits",
+  "description": "Watercolor on paper. This lovely old woman, the friend of a friend, was given a bouquet of spring daisies and I thought the contrast was beautiful.",
+  "thumb": "artwork/portraits/Memories-of-Springtime.jpg"
+}, {
+  "name": "Evan",
+  "medium": "portraits",
+  "description": "Watercolor and washi collage on paper. A portrait of one of my favorite people.",
+  "thumb": "artwork/portraits/evan.jpg"
+}, {
+  "name": "Amy and Tess",
+  "medium": "portraits",
+  "description": "Watercolor and collage on paper. This is a quick study of Amy reading. It hangs in her husband’s study.",
+  "thumb": "artwork/portraits/amy-and-tess.jpg"
+}, {
+  "name": "Sunflower Batik",
+  "medium": "watercolor",
+  "description": "Watercolor on paper, using a tape-batik technique taught by the talented Sandy Maudlin. Inspired by photographs of sunflower fields in Italy, this painting was done using a limited palette. This is a labor-intensive technique, but well worth it. Thank you, Sandy.",
+  "thumb": "artwork/watercolor/sunflower-batik.jpg"
+}, {
+  "name": "In Two...",
+  "medium": "watercolor",
+  "description": "Watercolor on paper, giclee prints available, inquire. Painted from photos taken of teams practicing for Olympic tryouts. It is such a beautiful sport and the sculls themselves are works of art.",
+  "thumb": "artwork/watercolor/in-two.jpg"
+}, {
+  "name": "Fall Harvest",
+  "medium": "watercolor",
+  "description": "Watercolor on paper. (from Henry Bell Workshop)",
+  "thumb": "artwork/watercolor/fall-harvest.jpg"
+}, {
+  "name": "Daylilies with Cerulean Sky",
+  "medium": "watercolor",
+  "description": "Watercolor and watercolor crayon on paper. This was done using a crayon technique learned from the incomparable Warren Taylor.",
+  "thumb": "artwork/watercolor/daylilies-cerulean.jpg"
+}, {
+  "name": "Sunlight",
+  "medium": "watercolor",
+  "description": "Watercolor on paper. An antique stoneware jug filled with sunflowers graced my country kitchen. The shadows made their own colorful vignette on the counter top.",
+  "thumb": "artwork/watercolor/sunlight.jpg"
+}, {
+  "name": "Docked",
+  "medium": "watercolor",
+  "description": "",
+  "thumb": "artwork/watercolor/Docked.jpg"
+}, {
+  "name": "Remnants",
+  "medium": "watercolor",
+  "description": "Watercolor and washi collage on paper. Southern Indiana, remnants in the field, a storm on the horizon.",
+  "thumb": "artwork/watercolor/remnants.jpg"
+}, {
   "name": "",
   "medium": "",
   "description": "",

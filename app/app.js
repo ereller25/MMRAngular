@@ -15,16 +15,20 @@ mmrWebsite.config(['$routeProvider', function($routeProvider){
     controller: 'ArtworkController'
   })
   .when('/illustration', {
-    templateUrl: 'views/illustration.html'
+    templateUrl: 'views/illustration.html',
+    controller: 'ArtworkController'
   })
   .when('/italian', {
-    templateUrl: 'views/italian.html'
+    templateUrl: 'views/italian.html',
+    controller: 'ArtworkController'
   })
   .when('/portraits', {
-    templateUrl: 'views/portraits.html'
+    templateUrl: 'views/portraits.html',
+    controller: 'ArtworkController'
   })
   .when('/watercolor', {
-    templateUrl: 'views/watercolor.html'
+    templateUrl: 'views/watercolor.html',
+    controller: 'ArtworkController'
   })
   .when('/bio', {
     templateUrl: 'views/bio.html'
