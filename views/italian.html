@@ -1,5 +1,5 @@
 <div class="uniform">
-<h1 style="text-align: left;">Italian Series</h1>
+<h1 class="gallery-header">Italian Series</h1>
 <h3>Donne di Italia</h3>
 <p>
 This series was begun during a summer in Italy a few years ago. I chose to stylize the portraits of women seen in art museums throughout the country, dressing them in gowns made of visual motifs from the various areas. I have used the architectural details, mosaics and tile patterns of the duomos, folk lore, local trade and many natural elements to whimsically illustrate each city or region. These will soon be available as note cards and on a small selection of products.
@@ -9,6 +9,7 @@ More to come. Stay tuned.
 </div>
 <div class="container">
     <div class="col-sm-4" ng-repeat="artwork in artworks | filter: {medium: 'italian'}">
-      <a class="paintings" ng-href="{{artwork.thumb}}"  data-lightbox="{{artwork.thumb}}"><img class="paintings" ng-src="{{artwork.thumb}}" /></a>
+      <a class="paintings" ng-href="{{artwork.thumb}}"  data-lightbox="{{artwork.thumb}}" data-title="{{artwork.description}}"><img ng-src="{{artwork.thumb}}" /></a>
+      <h3 class="titles">{{artwork.name}}</h3>
     </div>
 </div>

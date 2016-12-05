@@ -1,10 +1,10 @@
 <div class="uniform">
-<h1 style="text-align: left;">Portraits</h1>
+<h1 class="gallery-header">Portraits</h1>
 <p>Portraits done in various combinations of watercolor, washi collage, ink and acrylic.</p>
 </div>
 <div class="container">
     <div class="col-sm-4" ng-repeat="artwork in artworks | filter: {medium: 'portraits'}">
-      <a class="paintings" ng-href="{{artwork.thumb}}"  data-lightbox="{{artwork.thumb}}" data-title="{{artwork.description}}"><img class="paintings" ng-src="{{artwork.thumb}}" /></a>
-      <h3>{{artwork.name}}</h3>
+      <a class="paintings" ng-href="{{artwork.thumb}}"  data-lightbox="{{artwork.thumb}}" data-title="{{artwork.description}}"><img ng-src="{{artwork.thumb}}" /></a>
+      <h3 class="titles">{{artwork.name}}</h3>
     </div>
 </div>
