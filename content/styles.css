@@ -182,3 +182,11 @@ form {
   font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
   font-style: italic;
 }
+
+.bio-img{
+  float: left;
+  width: 250px;
+  height: 250px;
+  margin: 10 10 0 0;
+  padding: 0 0 10 10;
+}
